@@ -1,0 +1,14 @@
+Menu
+
+Drinks
+1. Coke $3
+2. Water $1
+3. Orange Pop $3
+4. Coffee $5
+
+Food
+1. Chips $1
+2. Salad $6
+3. Pizza $10
+4. Hot Dog $5
+5. Pasta $25
